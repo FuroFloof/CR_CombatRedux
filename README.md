@@ -107,7 +107,7 @@ if (isLocal) {
 ## Can i currently play Combat:Redux anywhere?
 Combat:Redux is currently still in Early Development, and is only available on Steam, via a **Beta Steam-Key**.
 You may request a Steam-Key in the [Discord Server](https://discord.gg/QYczNyKkse), or DM me for one, however, by accepting a Steam-Key, you should also
-try to find the time to take part in Semi-Regular Group-Playtests when they are being held. If not, that is fine, but remember that the purpose of
+try to find the time to take part in Semi-Regular **Group-Playtests** when they are being held. If not, that is fine, but remember that the purpose of
 Beta-Tests is to... well... test!
 
 ## Want to use Code from Combat:Redux in your own Projects?
